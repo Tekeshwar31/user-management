@@ -12,6 +12,8 @@ app.get('/', (req, res) => {
   res.send('Hello World!');
 });
 
+console.log("console is on")
+
 ///sdfsdfsdfds
 ///sdfsdfsdfds
 ///sdfsdfsdfds
